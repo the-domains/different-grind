@@ -1,14 +1,14 @@
 layout_spectrum: 0
 typography_spectrum: 0
 color:
-  lightness: 0.0006265664
-  brandStrength: 0.5308144
+  lightness: 0.4837093
+  brandStrength: 0.4974937
   saturation: 1
-  rhythmicContrast: 0.8276942
+  rhythmicContrast: 0.7249373
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#080506'
+    - '#E0DCD4'
+    - '#443020'
+    - '#CF842F'
+    - '#9E9586'
 name: Different Grind
