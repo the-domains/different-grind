@@ -1,14 +1,24 @@
+name: A Different Grind
 layout_spectrum: 0
 typography_spectrum: 0
+opengraph:
+  type: ''
+  appId: ''
 color:
-  lightness: 0.4837093
-  brandStrength: 0.4974937
-  saturation: 1
-  rhythmicContrast: 0.7249373
   brandColors:
     - '#080506'
     - '#E0DCD4'
     - '#443020'
     - '#CF842F'
     - '#9E9586'
-name: A Different Grind
+  brandStrength: 0.4974937
+  lightness: 0.4837093
+  saturation: 1
+  rhythmicContrast: 0.7249373
+title: 'Not only is our coffee Different, it''s kind.'
+author:
+  name: CaptainCu
+  url: ''
+  email: ''
+content_rating:
+  adult: false
