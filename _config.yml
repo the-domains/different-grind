@@ -1,6 +1,6 @@
 name: 'Different Grind : Coffee that''s Kind'
 favicon: null
-layout_spectrum: 0.73456
+layout_spectrum: 1
 typography_spectrum: 0
 content_rating:
   adult: false
@@ -28,8 +28,8 @@ color:
     - '#443020'
     - '#CF842F'
     - '#9E9586'
-  brandStrength: 0.25
-  lightness: 0.4837093
+  brandStrength: 0.75
+  lightness: 0.375
   saturation: 1
-  rhythmicContrast: 0.7249373
+  rhythmicContrast: 0.25
 purpose: []
