@@ -1,6 +1,26 @@
+name: 'Different Grind : Coffee that''s Kind'
+favicon: null
+layout_spectrum: 0.24541
 typography_spectrum: 0
 content_rating:
   adult: false
+author:
+  name: CaptainCu
+  url: ''
+  email: ''
+title: "Caffeine with a Conscience - not only is it\_Different, it's kind."
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#080506'
@@ -12,24 +32,4 @@ color:
   lightness: 0.4837093
   saturation: 1
   rhythmicContrast: 0.7249373
-opengraph:
-  image: null
-  type: ''
-  appId: ''
-layout_spectrum: 0
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: CaptainCu
-  url: ''
-  email: ''
-name: 'theDifferent Grind : Kind Coffee'
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: "Caffeine with a Conscience - not only is it\_Different, it's kind."
 purpose: []
